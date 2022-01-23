@@ -5,3 +5,10 @@
   padding: 0;
   box-sizing: inherit;
 }
+
+header {
+  padding: 0 4rem;
+}
+main {
+  padding: 0 4rem;
+}
